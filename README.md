@@ -1,2 +1,2 @@
 # Dotfiles
-Dotfiles for ricing
+These are my current setup's dotfiles for ricing.
