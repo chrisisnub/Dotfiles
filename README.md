@@ -1,5 +1,5 @@
 # Dotfiles
-These are my current setup's dotfiles for ricing. You can apply these to your applications by copying them to your ```~/.config```
+These are my current setup's dotfiles for ricing using BSPWM. You can apply these to your applications by copying them to your ```~/.config``` where required.
 
 Almost all configs are pieced together and modified to my settings from the following:
 
