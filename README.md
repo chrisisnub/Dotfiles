@@ -1,5 +1,7 @@
 # Dotfiles
-These are my current setup's dotfiles for ricing using BSPWM. You can apply these to your applications by copying them to your ```~/.config``` where required.
+These are my current setup's dotfiles for ricing using BSPWM. You can apply almost all of these to your applications by copying them to your ```~/.config``` where required.
+
+GlitchDM is a greeter theme used in [lightdm-webkit2-greeter](https://github.com/Antergos/lightdm-webkit2-greeter)
 
 Almost all configs are pieced together and/or modified to my settings from the following:
 
